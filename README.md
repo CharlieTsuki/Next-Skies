@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -72,5 +72,3 @@ Next Skies is a modern weather web app built with React, TypeScript, Vite, and S
 ## Developer
 Charlie Tsuki
 📧 charliebrown.393939@gmail.com 
-
->>>>>>> ef69aace5a8d9561425a13d71ba21b72e6948ebd
